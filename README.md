@@ -15,8 +15,8 @@ After model was developed, trained and assessed locally, it was moved and deploy
 #### Appendices: 
 The solution architecture diagram: https://github.com/boris-korotkov/The-Labels-Generator/blob/main/Azure%20ML/MS%20Azure%20solution%20architecture.drawio.png
 
- The model training script: https://github.com/boris-korotkov/DS-Portfolio/blob/main/Azure%20ML/keras_model_training.py
+ The model training script: https://github.com/boris-korotkov/The-Labels-Generator/blob/main/Azure%20ML/keras_model_training.py 
    
- The deployment module: https://github.com/boris-korotkov/DS-Portfolio/blob/main/Azure%20ML/Model%20Training%20and%20Deployment.ipynb
+ The deployment module: https://github.com/boris-korotkov/The-Labels-Generator/blob/main/Azure%20ML/Model%20Training%20and%20Deployment.ipynb
       
  `The toolset: Azure Machine Learning, Azure Python SDK, SKLearn, NLTK, Keras`
