@@ -1,3 +1,7 @@
+# Adapted from  Microsoft course DP-100 Designing and Implementing a Data Science Solution on Azure
+# Source: https://microsoftlearning.github.io/mslearn-dp100/
+# License: MIT License
+
 import numpy as np
 import argparse
 import os
