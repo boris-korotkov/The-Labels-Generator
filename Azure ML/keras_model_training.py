@@ -1,6 +1,7 @@
-# Adapted from  Microsoft course DP-100 Designing and Implementing a Data Science Solution on Azure
-# Source: https://microsoftlearning.github.io/mslearn-dp100/
+# Adapted from  Adapted from Jason Brownlee's  code
+# Source: https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
 # License: MIT License
+
 
 import numpy as np
 import argparse
